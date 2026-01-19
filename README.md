@@ -31,14 +31,6 @@ Recommended repo layout:
 
 ```
 
-.
-├─ main.py
-├─ computer_architecture_words.csv
-├─ oop_words.csv
-├─ operating_systems_words.csv
-├─ data_structures_words.csv
-├─ computer_networking_words.csv
-└─ README.md
 
 ````
 
